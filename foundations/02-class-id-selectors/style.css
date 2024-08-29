@@ -1,0 +1,19 @@
+.odd-elements {
+    background-color: #cc7777;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odd-elements.big-size {
+    font-size: 24px;
+}
+
+#first-id {
+    color: rgb(0, 0, 210);
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: hsl(90, 100%, 30%);
+    font-size: 24px;
+    font-weight: bold;
+}
